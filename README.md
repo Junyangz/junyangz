@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 follow me on Twitter @[alphabetcn](https://twitter.com/alphabetcn)
 
 <!--
 **Junyangz/junyangz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 I'm currently preparing to work in [Tencent Cloud](cloud.tencent.com), follow me on Twitter @[alphabetcn](https://twitter.com/alphabetcn)
+-->
